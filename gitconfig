@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
-	name = adif
+	email = infosgaid@gmail.com
+	name = adif sgaid
